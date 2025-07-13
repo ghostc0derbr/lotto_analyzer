@@ -1,0 +1,27 @@
+# Ambiente Virtual
+venv/
+/venv/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas de Build e Distribuição do PyInstaller
+build/
+dist/
+*.spec
+
+# Banco de dados local (gerado pelo usuário)
+*.db
+*.db-journal
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db

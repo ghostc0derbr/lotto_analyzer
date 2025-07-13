@@ -1,0 +1,6 @@
+# Instala a biblioteca pandas
+pip install pandas
+pip install selenium
+
+# Atualiza o arquivo de requerimentos com a nova biblioteca
+pip freeze > requirements.txt
